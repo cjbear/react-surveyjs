@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## BackPocket Web App
 
-In the project directory, you can run:
+This is a survey app build with Reactjs, Redux, and Axios libraries. I'm using Tachyons to style the components. https://tachyons.io
 
 ### `npm start`
 
@@ -66,3 +66,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# react-surveyjs
